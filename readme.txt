@@ -3,7 +3,7 @@ Contributors: keith_wp
 Donate Link: http://drakard.com/
 Tags: post excerpts, post excerpt, excerpt
 Requires at least: 3.8 or higher
-Tested up to: 5.2.4
+Tested up to: 5.6 alpha
 Stable tag: 0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -33,8 +33,11 @@ After getting annoyed that the default 2017 theme always showed the full post co
 == Changelog ==
 
 = 0.1 =
-* Initial release.
+* Tested against 5.6 alpha
 
+= 0.1 =
+* Initial release.
+* Tested against 5.2.4
 
 
 == Upgrade Notice ==
